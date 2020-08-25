@@ -5,6 +5,7 @@ pipeline {
         stage('compile') {
             steps {
                 echo 'compile'
+                mvn compile
             }
         }
         stage('package') {
