@@ -3,4 +3,11 @@
   <groupId>fr.aelion</groupId>
   <artifactId>geometry</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<java.version>8</java.version>
+		<start-class>geo.Application</start-class>
+		<maven.compiler.source>8</maven.compiler.source>
+		<maven.compiler.target>8</maven.compiler.target>
+	</properties>
 </project>
