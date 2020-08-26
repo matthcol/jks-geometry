@@ -7,8 +7,8 @@ public class Point {
 	
 	public Point(double x, double y) {
 		super();
-		this.x = 3;
-		this.y = 4;
+		this.x = x;
+		this.y = y;
 	}
 	
 	
